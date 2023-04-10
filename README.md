@@ -56,4 +56,4 @@ The seattle folder encompasses the dataset from Kaggle (https://www.kaggle.com/a
 
 ### Acknowledgements
 
-Credit to the AirBnB dataset published by AirBnB and Kaggle for hosting it, the dataset here: https://www.kaggle.com/airbnb/seattle
+Thanks to the AirBnB dataset published by AirBnB and Kaggle, the dataset link is ttps://www.kaggle.com/airbnb/seattle
