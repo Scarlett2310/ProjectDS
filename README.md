@@ -23,11 +23,13 @@
 Choosing the Seattle Airbnb dataset, I would like to have better understanding of this data by answering the following questions:
 
 Understandings of Price Seasonal and Usage trend:
-    1. Indicating the seasonal pattern of Price and Accommodation Usage trend?
-    2. Which neighborhoods the price reach the highest and lowest in a year?
-    3. How does property types within neighborhoods impact price for the most expensive neighborhoods and most common property types?
+1. Indicating the seasonal pattern of Price and Accommodation Usage trend?
+2. Which neighborhoods the price reach the highest and lowest in a year?
+3. How does property types within neighborhoods impact price for the most expensive neighborhoods and most common property types?
+
 Price Prediction
-    4. Can we predict price for a given listing? What factors of the listing correlate best for predicting price?
+
+4. Can we predict price for a given listing? What factors of the listing correlate best for predicting price?
 
 
 ### File Descriptions
