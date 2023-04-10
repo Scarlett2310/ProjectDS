@@ -2,11 +2,12 @@
 
 ## Table of Contents
 
-1. Installations
-2. My Project Motivation
-3. File Descriptions
-5. Summary
-5. Acknowledgements
+1. [Installations](#installations)
+2. [Motivation](#motivation)
+3. [Descriptions](#descriptions)
+4. [Summary](#summary)
+5. [Acknowledgements](#acknowledgements)
+
 
 ### Installations
 
@@ -18,7 +19,7 @@
 6. Seaborn
 7. Sklearn
 
-### My Project Motivation
+### Motivation
 
 Choosing the Seattle Airbnb dataset, I would like to have better understanding of this data by answering the following questions:
 
@@ -32,15 +33,15 @@ Price Prediction
 4. Can we predict price for a given listing? What factors of the listing correlate best for predicting price?
 
 
-### File Descriptions
+### Descriptions
 
 The Jupyter notebook displays the analysis performed to investigate the dataset, including preparing and managing data, and constructing prediction models to address the questions posed. Markdown cells are used to document the steps taken and communicate the results of each analysis.
-The seattle folder contains the dataset from Kaggle (https://www.kaggle.com/airbnb/seattle). It contains 3 files:
+The seattle folder encompasses the dataset from Kaggle (https://www.kaggle.com/airbnb/seattle). It contains 3 files:
 * calendar.csv: calendar availability of listings and price
 * listings.csv: information about all the available listings
 * reviews.csv: listing reviews by the users
 
-### Summary Of The Results
+### Summary
 
 * The peak months of the price were june, july and august. The price reached the highest in August.
 * The highest number of bookings was in January, following by July and August.
