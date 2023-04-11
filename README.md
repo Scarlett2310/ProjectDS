@@ -36,7 +36,7 @@ Price Prediction
 ### Descriptions
 
 The Jupyter notebook displays the analysis performed to investigate the dataset, including preparing and managing data, and constructing prediction models to address the questions posed. Markdown cells are used to document the steps taken and communicate the results of each analysis.
-The detail of the results would be showed in this [blog](https://www.linkedin.com/pulse/small-picture-airbnb-business-seattle-thao-scarlett-le)
+The detail of the results would be showed in this [blog](https://scarlettmindd.blogspot.com/2023/04/a-small-picture-of-airbnb-business-in.html)
 
 The seattle folder encompasses the dataset from Kaggle (https://www.kaggle.com/airbnb/seattle). It contains 3 files:
 * calendar.csv: calendar availability of listings and price
